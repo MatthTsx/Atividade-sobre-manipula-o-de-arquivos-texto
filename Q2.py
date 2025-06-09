@@ -1,10 +1,10 @@
 from classes2.Candidados import Candidados
 from classes2.utils import Verify
 
-# votosFileName = input()
-# TSEFileName = input()
-votosFileName = "Votes.txt"
-TSEFileName = "TSE.txt"
+votosFileName = input()
+TSEFileName = input()
+# votosFileName = "Votes.txt"
+# TSEFileName = "TSE.txt"
 C = Candidados()
 
 
